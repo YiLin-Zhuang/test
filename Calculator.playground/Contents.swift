@@ -73,8 +73,8 @@ class OperationFactory:Operation {
 var operation = OperationFactory.CreateOperation(method: .add)
 //創建一個加法的物件
 operation.firstNumber = 50
-//數入第一個數字
+//輸入第一個數字
 operation.secondNumber = 40
-//數入第二個數字
+//輸入第二個數字
 operation.Result()
 //查看結果
